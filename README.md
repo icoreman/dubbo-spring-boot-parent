@@ -9,9 +9,11 @@
 
 
 启动流程：
-1、导入IDE，修改application.properties 配置文件中的zookeeper地址和端口号。
-2、依次启动c&p/c/p,因为没有设置启动检查，所以可以不管启动顺序。
-3、调用接口，验证是否成功.
+1、导入IDE，修改application.properties 配置文件中的zookeeper地址和端口号。  
+
+2、依次启动c&p/c/p,因为没有设置启动检查，所以可以不管启动顺序。  
+
+3、调用接口，验证是否成功.  
 
 调用流程：
 
